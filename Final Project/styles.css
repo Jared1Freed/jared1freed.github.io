@@ -1,0 +1,59 @@
+.ApplyRed{
+    color: red;
+}
+
+h6{
+    color: grey;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: red;
+}
+
+body {
+    background-color: lightyellow;
+  }
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.gbutton {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.goodluck {
+    color: rgb(177, 151, 6);
+    stroke: black;
+    stroke-width: 10px;
+}
+
+.mizzou{
+    color: rgb(177, 151, 6);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
